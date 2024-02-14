@@ -28,11 +28,11 @@ The aim of this thesis is not only to contribute to the academic study of medita
 ## Repository Structure
 
 - `thesis_mla.pdf`: The current draft of my thesis, including Chapters 2 and 3.
-- `code/`: Directory containing all scripts used for data processing, NLP analysis, and database management.
+- `code/`: Directory containing all scripts used for data processing, NLP analysis, and database management (mainly on Jupyter).
 - `transcripts/`: (Excluded from this repository for privacy reasons) Contains the raw and processed interview transcripts.
 - `csv_data/`: All CSV files (initial ones, and newly created after a SQL query)
 - `database/`: SQL scripts for creating and managing the MySQL database.
-- `results/`: Visualizations and output from the NLP analysis and database queries.
+- `plots_graphs/`: Visualizations and output from the NLP analysis and database queries.
 
 ## Future Work
 
