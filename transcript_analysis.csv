@@ -1,0 +1,20 @@
+ptag_transcript,top_topic_id,top_topic_name,top_word,top_word_freq,sentiment_polarity,sentiment_subjectivity
+alind,2,Debating the essence of vipassana,people,31,0.148782398,0.44960976
+saideep,3,Awareness and Transformation,conflict,5,0.117421666,0.4824933
+shaurya,1,Philosophical underpinnings,law,13,0.108734827,0.449143324
+mani,3,Awareness and Transformation,understanding,5,0.152214171,0.429135036
+himanshu,3,Awareness and Transformation,practice,7,0.133659154,0.490662292
+sandhya,3,Awareness and Transformation,understanding,5,0.222071429,0.465238095
+anuradha,2,Debating the essence of vipassana,know,37,0.134659552,0.528151178
+shveta,2,Debating the essence of vipassana,not,28,0.213746313,0.465569927
+ranjana,3,Awareness and Transformation,practice,8,0.159732243,0.455522872
+puneet,1,Philosophical underpinnings,practice,9,0.112578163,0.57512025
+tonu,2,Debating the essence of vipassana,know,85,0.184765355,0.495814314
+anirudh,0,Integrative life perspectives,personal,7,0.157035783,0.450061021
+nandkishore,1,Philosophical underpinnings,meditation,16,0.084319611,0.405996896
+premchand,3,Awareness and Transformation,others,5,0.12625,0.455
+jyoti,3,Awareness and Transformation,now,7,0.083136156,0.427264326
+sushila,3,Awareness and Transformation,practice,11,0.106191829,0.454931284
+himmat,0,Integrative life perspectives,life,9,0.149521614,0.488899241
+fgd1,3,Awareness and Transformation,self,16,0.058017869,0.42198121
+fgd2,3,Awareness and Transformation,energy,13,0.118826706,0.424725904

@@ -1,0 +1,139 @@
+ptag_wwpairs,word,weight,sentiment_subjectivity,topic_name,top_entity_type,top_entity_freq
+alind,know,0.028,0.44961,Debating the essence of Vipassana,Person,14
+alind,not,0.021,0.44961,Debating the essence of Vipassana,Person,14
+alind,think,0.017,0.44961,Debating the essence of Vipassana,Person,14
+alind,people,0.016,0.44961,Debating the essence of Vipassana,Person,14
+alind,feel,0.01,0.44961,Debating the essence of Vipassana,Person,14
+alind,say,0.008,0.44961,Debating the essence of Vipassana,Person,14
+alind,one,0.008,0.44961,Debating the essence of Vipassana,Person,14
+alind,now,0.007,0.44961,Debating the essence of Vipassana,Person,14
+anirudh,life,0.009,0.450061,Integrative life perspectives,Organization,28
+anirudh,personal,0.008,0.450061,Integrative life perspectives,Organization,28
+anirudh,experience,0.007,0.450061,Integrative life perspectives,Organization,28
+anirudh,practice,0.006,0.450061,Integrative life perspectives,Organization,28
+anirudh,think,0.005,0.450061,Integrative life perspectives,Organization,28
+anirudh,issues,0.005,0.450061,Integrative life perspectives,Organization,28
+anirudh,societal,0.005,0.450061,Integrative life perspectives,Organization,28
+anirudh,understanding,0.005,0.450061,Integrative life perspectives,Organization,28
+anuradha,know,0.028,0.528151,Debating the essence of Vipassana,Cardinal Number,14
+anuradha,not,0.021,0.528151,Debating the essence of Vipassana,Cardinal Number,14
+anuradha,think,0.017,0.528151,Debating the essence of Vipassana,Cardinal Number,14
+anuradha,people,0.016,0.528151,Debating the essence of Vipassana,Cardinal Number,14
+anuradha,feel,0.01,0.528151,Debating the essence of Vipassana,Cardinal Number,14
+anuradha,say,0.008,0.528151,Debating the essence of Vipassana,Cardinal Number,14
+anuradha,one,0.008,0.528151,Debating the essence of Vipassana,Cardinal Number,14
+anuradha,now,0.007,0.528151,Debating the essence of Vipassana,Cardinal Number,14
+fgd1,practice,0.012,0.421981,Awareness and Transformation,Person,10
+fgd2,practice,0.012,0.424726,Awareness and Transformation,Organization,33
+himanshu,practice,0.012,0.490662,Awareness and Transformation,Organization,15
+himanshu,not,0.009,0.490662,Awareness and Transformation,Organization,15
+himanshu,sense,0.007,0.490662,Awareness and Transformation,Organization,15
+himanshu,understanding,0.007,0.490662,Awareness and Transformation,Organization,15
+himanshu,life,0.007,0.490662,Awareness and Transformation,Organization,15
+himanshu,might,0.006,0.490662,Awareness and Transformation,Organization,15
+himanshu,change,0.006,0.490662,Awareness and Transformation,Organization,15
+himanshu,self,0.006,0.490662,Awareness and Transformation,Organization,15
+himmat,life,0.009,0.488899,Integrative life perspectives,Person,24
+himmat,personal,0.008,0.488899,Integrative life perspectives,Person,24
+himmat,experience,0.007,0.488899,Integrative life perspectives,Person,24
+himmat,practice,0.006,0.488899,Integrative life perspectives,Person,24
+himmat,think,0.005,0.488899,Integrative life perspectives,Person,24
+himmat,issues,0.005,0.488899,Integrative life perspectives,Person,24
+himmat,societal,0.005,0.488899,Integrative life perspectives,Person,24
+himmat,understanding,0.005,0.488899,Integrative life perspectives,Person,24
+jyoti,practice,0.012,0.427264,Awareness and Transformation,Ordinal Number,14
+jyoti,not,0.009,0.427264,Awareness and Transformation,Ordinal Number,14
+jyoti,sense,0.007,0.427264,Awareness and Transformation,Ordinal Number,14
+jyoti,understanding,0.007,0.427264,Awareness and Transformation,Ordinal Number,14
+jyoti,life,0.007,0.427264,Awareness and Transformation,Ordinal Number,14
+jyoti,might,0.006,0.427264,Awareness and Transformation,Ordinal Number,14
+jyoti,change,0.006,0.427264,Awareness and Transformation,Ordinal Number,14
+jyoti,self,0.006,0.427264,Awareness and Transformation,Ordinal Number,14
+mani,practice,0.012,0.429135,Awareness and Transformation,Person,20
+mani,not,0.009,0.429135,Awareness and Transformation,Person,20
+mani,sense,0.007,0.429135,Awareness and Transformation,Person,20
+mani,understanding,0.007,0.429135,Awareness and Transformation,Person,20
+mani,life,0.007,0.429135,Awareness and Transformation,Person,20
+mani,might,0.006,0.429135,Awareness and Transformation,Person,20
+mani,change,0.006,0.429135,Awareness and Transformation,Person,20
+mani,self,0.006,0.429135,Awareness and Transformation,Person,20
+nandkishore,practice,0.009,0.405997,Philosophical underpinnings,Organization,3
+nandkishore,meditation,0.009,0.405997,Philosophical underpinnings,Organization,3
+nandkishore,nature,0.007,0.405997,Philosophical underpinnings,Organization,3
+nandkishore,often,0.006,0.405997,Philosophical underpinnings,Organization,3
+nandkishore,understanding,0.006,0.405997,Philosophical underpinnings,Organization,3
+nandkishore,law,0.005,0.405997,Philosophical underpinnings,Organization,3
+nandkishore,life,0.005,0.405997,Philosophical underpinnings,Organization,3
+nandkishore,experience,0.005,0.405997,Philosophical underpinnings,Organization,3
+premchand,practice,0.012,0.455,Awareness and Transformation,Date,12
+premchand,not,0.009,0.455,Awareness and Transformation,Date,12
+premchand,sense,0.007,0.455,Awareness and Transformation,Date,12
+premchand,understanding,0.007,0.455,Awareness and Transformation,Date,12
+premchand,life,0.007,0.455,Awareness and Transformation,Date,12
+premchand,might,0.006,0.455,Awareness and Transformation,Date,12
+premchand,change,0.006,0.455,Awareness and Transformation,Date,12
+premchand,self,0.006,0.455,Awareness and Transformation,Date,12
+puneet,practice,0.009,0.57512,Philosophical underpinnings,Organization,31
+puneet,meditation,0.009,0.57512,Philosophical underpinnings,Organization,31
+puneet,nature,0.007,0.57512,Philosophical underpinnings,Organization,31
+puneet,often,0.006,0.57512,Philosophical underpinnings,Organization,31
+puneet,understanding,0.006,0.57512,Philosophical underpinnings,Organization,31
+puneet,law,0.005,0.57512,Philosophical underpinnings,Organization,31
+puneet,life,0.005,0.57512,Philosophical underpinnings,Organization,31
+puneet,experience,0.005,0.57512,Philosophical underpinnings,Organization,31
+ranjana,practice,0.012,0.455523,Awareness and Transformation,Date,23
+ranjana,not,0.009,0.455523,Awareness and Transformation,Date,23
+ranjana,sense,0.007,0.455523,Awareness and Transformation,Date,23
+ranjana,understanding,0.007,0.455523,Awareness and Transformation,Date,23
+ranjana,life,0.007,0.455523,Awareness and Transformation,Date,23
+ranjana,might,0.006,0.455523,Awareness and Transformation,Date,23
+ranjana,change,0.006,0.455523,Awareness and Transformation,Date,23
+ranjana,self,0.006,0.455523,Awareness and Transformation,Date,23
+saideep,practice,0.012,0.482493,Awareness and Transformation,Person,28
+saideep,not,0.009,0.482493,Awareness and Transformation,Person,28
+saideep,sense,0.007,0.482493,Awareness and Transformation,Person,28
+saideep,understanding,0.007,0.482493,Awareness and Transformation,Person,28
+saideep,life,0.007,0.482493,Awareness and Transformation,Person,28
+saideep,might,0.006,0.482493,Awareness and Transformation,Person,28
+saideep,change,0.006,0.482493,Awareness and Transformation,Person,28
+saideep,self,0.006,0.482493,Awareness and Transformation,Person,28
+sandhya,practice,0.012,0.465238,Awareness and Transformation,Organization,15
+sandhya,not,0.009,0.465238,Awareness and Transformation,Organization,15
+sandhya,sense,0.007,0.465238,Awareness and Transformation,Organization,15
+sandhya,understanding,0.007,0.465238,Awareness and Transformation,Organization,15
+sandhya,life,0.007,0.465238,Awareness and Transformation,Organization,15
+sandhya,might,0.006,0.465238,Awareness and Transformation,Organization,15
+sandhya,change,0.006,0.465238,Awareness and Transformation,Organization,15
+sandhya,self,0.006,0.465238,Awareness and Transformation,Organization,15
+shaurya,practice,0.009,0.449143,Philosophical underpinnings,Organization,33
+shaurya,meditation,0.009,0.449143,Philosophical underpinnings,Organization,33
+shaurya,nature,0.007,0.449143,Philosophical underpinnings,Organization,33
+shaurya,often,0.006,0.449143,Philosophical underpinnings,Organization,33
+shaurya,understanding,0.006,0.449143,Philosophical underpinnings,Organization,33
+shaurya,law,0.005,0.449143,Philosophical underpinnings,Organization,33
+shaurya,life,0.005,0.449143,Philosophical underpinnings,Organization,33
+shaurya,experience,0.005,0.449143,Philosophical underpinnings,Organization,33
+shveta,know,0.028,0.46557,Debating the essence of Vipassana,Date,18
+shveta,not,0.021,0.46557,Debating the essence of Vipassana,Date,18
+shveta,think,0.017,0.46557,Debating the essence of Vipassana,Date,18
+shveta,people,0.016,0.46557,Debating the essence of Vipassana,Date,18
+shveta,feel,0.01,0.46557,Debating the essence of Vipassana,Date,18
+shveta,say,0.008,0.46557,Debating the essence of Vipassana,Date,18
+shveta,one,0.008,0.46557,Debating the essence of Vipassana,Date,18
+shveta,now,0.007,0.46557,Debating the essence of Vipassana,Date,18
+sushila,practice,0.012,0.454931,Awareness and Transformation,Organization,21
+sushila,not,0.009,0.454931,Awareness and Transformation,Organization,21
+sushila,sense,0.007,0.454931,Awareness and Transformation,Organization,21
+sushila,understanding,0.007,0.454931,Awareness and Transformation,Organization,21
+sushila,life,0.007,0.454931,Awareness and Transformation,Organization,21
+sushila,might,0.006,0.454931,Awareness and Transformation,Organization,21
+sushila,change,0.006,0.454931,Awareness and Transformation,Organization,21
+sushila,self,0.006,0.454931,Awareness and Transformation,Organization,21
+tonu,know,0.028,0.495814,Debating the essence of Vipassana,Geopolitical Entity,51
+tonu,not,0.021,0.495814,Debating the essence of Vipassana,Geopolitical Entity,51
+tonu,think,0.017,0.495814,Debating the essence of Vipassana,Geopolitical Entity,51
+tonu,people,0.016,0.495814,Debating the essence of Vipassana,Geopolitical Entity,51
+tonu,feel,0.01,0.495814,Debating the essence of Vipassana,Geopolitical Entity,51
+tonu,say,0.008,0.495814,Debating the essence of Vipassana,Geopolitical Entity,51
+tonu,one,0.008,0.495814,Debating the essence of Vipassana,Geopolitical Entity,51
+tonu,now,0.007,0.495814,Debating the essence of Vipassana,Geopolitical Entity,51

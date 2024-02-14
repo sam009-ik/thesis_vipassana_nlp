@@ -1,0 +1,7 @@
+.venv/
+transcripts/
+.ipynb_checkpoints/
+thesis_database.mwb
+thesis_database.mwb.bak
+thesis_mla-Copy.docx
+thesis_mla.docx
